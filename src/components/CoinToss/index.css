@@ -1,0 +1,8 @@
+/* Write your CSS here */
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: liner-gradient(to left, #e2a139, #f9d423);
+  min-height: 100vh;
+}
